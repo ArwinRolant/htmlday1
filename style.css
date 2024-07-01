@@ -1,0 +1,21 @@
+
+h6{color: blue;
+text-align: center;
+}
+h2{color: black;}
+#a1{background-color: aqua;
+    text-decoration: none;
+    color: brown;
+
+}
+#p1{color: black;}
+#p3{color:orangered;}
+#p2{color: brown;}
+.list{
+    color: blue;
+}
+.hy{
+    border: 3px solid red;
+    margin: 5% 10% 5% 10%;
+    padding: 10px 30px 10px 40px;
+}
